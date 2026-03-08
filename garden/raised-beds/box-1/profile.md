@@ -1,4 +1,4 @@
-# Box 1
+# Box 1 — Herb Garden
 
 ## Specs
 
@@ -6,22 +6,34 @@
 |-----------------|----------------------|
 | Dimensions      | L x W x H           |
 | Material        | Cedar                |
-| Orientation     | {N-S, E-W}          |
-| Sun Exposure    | {Full / Partial / description} |
+| Orientation     | E-W                  |
+| Sun Exposure    | Full                 |
 | Trellis         | No                   |
-| Irrigation      | {Hand water / drip / soaker} |
+| Irrigation      | Hand water           |
 
 ## Sun Map
 
-{Describe or sketch which parts get morning sun, afternoon shade, etc.}
+Beds run east–west. South-facing side receives strongest direct sun. Full sun exposure throughout the day.
 
 ## Current Plants
 
-| Position   | Plant            | Date Planted | Linked Entry                  |
-|------------|------------------|--------------|-------------------------------|
-| Front-left | {e.g. Basil}     | 2026-03-15   | [basil-01](../../../plants/basil-01/) |
-| Center     | {e.g. Tomato}    | 2026-03-10   | [tomato-01](../../../plants/tomato-01/) |
+| Position        | Plant         | Spacing Notes                          |
+|-----------------|---------------|----------------------------------------|
+| Driest end      | Rosemary      | Prefers drier soil; place at best-draining end |
+| Center          | Thyme         | Moderate water; pairs with rosemary    |
+| Center          | Sage          | Moderate water                         |
+| Moister end     | Parsley       | Prefers more consistent moisture       |
+| Outer edge      | French Marigolds (2–4 plants) | 8–10" apart; pest support + pollinator attraction |
+
+## Companion Notes
+
+- Rosemary and thyme prefer drier soil than parsley — group by water needs.
+- French marigolds along the outer edge attract beneficials and provide mild nematode suppression.
+- Keep marigolds compact (French varieties, not tall African types). Deadhead regularly to prevent mildew.
 
 ## Notes
 
-{Anything specific — drainage concerns, critter issues, proximity to fence, etc.}
+- Drainage history: beds experienced standing water and hydrophobic topsoil (water pools on surface, soil stays dry beneath). See soil log for remediation steps.
+- Built 2 years ago with truck-loaded garden mix. Organic compost added Year 2 worsened drainage. Fall amendment with Black Kow + blood/bone meal improved performance.
+- Beds are 18" deep, open to native ground (crumbly, slightly sandy base — good subsoil drainage).
+- Walkways on all sides.
